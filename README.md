@@ -18,7 +18,7 @@ Please take a moment to complete the class survey at: https://goo.gl/dhKBfR.
 
 ## Class Resources
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/)
+- [GitHub for Developers Manual](https://githubcustomers.github.io/US-Cellular/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 
