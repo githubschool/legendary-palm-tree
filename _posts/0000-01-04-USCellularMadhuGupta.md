@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Madhu Gupta's slide deck!"
 ---
 
 Madhu's First repository picture
