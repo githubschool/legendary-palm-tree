@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our Git training slide deck!"
+title: "Miru's Conflict Cat"
 ---
 
-Caption here
+Luchadorto Cat
 
 ![luchadortocat](https://octodex.github.com/images/luchadortocat.png)
 {: .center}

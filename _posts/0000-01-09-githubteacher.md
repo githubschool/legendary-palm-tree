@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "@hectorsector's amazing octocat"
 ---
 
-Caption here
+The amazing Kimonocat!
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
