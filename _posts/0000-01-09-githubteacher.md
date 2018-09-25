@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "@hectorsector's octocat"
+title: "@hectorsector's amazing octocat"
 ---
 
 The amazing Kimonocat
