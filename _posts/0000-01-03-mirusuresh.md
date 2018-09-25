@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Miru's Cat"
+title: "Miru's Bengal Cat"
 ---
 
 Luchadorto Cat
