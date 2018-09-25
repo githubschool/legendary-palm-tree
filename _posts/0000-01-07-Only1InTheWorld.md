@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Check out Only1InTheWorld's Slide"
 ---
 
 Hi World!!
