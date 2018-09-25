@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Miru's Conflict Cat"
 ---
 
 Luchadorto Cat
