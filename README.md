@@ -1,5 +1,5 @@
 # GitHub for Developers
-
+sdf
 - Class Date: September 24-28, 2018
 - Facilitator: @hectorsector
 
