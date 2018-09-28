@@ -1,0 +1,13 @@
+---
+githubHandle: USCellularMadhuGupta
+pr1: merged
+The answers are represent starting conflict markets, middle conflict markers, ending conflict markers, and if the deleted file is present (null = not present, 0 = present with another unnecessary file, 1 = correct files present).
+correct answers would be: 0,0,0,0,0,0,0,0,0,1
+checks1:0,0,0,0,0,0,0,0,0,0
+pr2: merged
+correct answers would be: 0,0,0
+checks2:0,0,0
+pr3: merged
+correct answers would be: 0,0,0
+checks3:0,0,0
+---
